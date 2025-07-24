@@ -10,24 +10,25 @@
   <a href="mailto:foysalkhan88672@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-    <a href="https://linkedin.com/in/Md-Foysal-Bhuiyan" target="_blank">
+    <a href="https://linkedin.com/in/Md Foysal Bhuiyan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages Frameworks Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,c#,C++,java" />
     <img src="https://skillicons.dev/icons?i=c#,c,java,mysql,c++" /><br>
 </div>
 
-<br/>
+ <br/><br/><br/>
+</div>
 
